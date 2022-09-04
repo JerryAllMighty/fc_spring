@@ -12,7 +12,7 @@ class FcSpringApplicationTests {
 
     @Test
     void contextLoads() throws JsonProcessingException {
-        System.out.println("----");
+        System.out.println("------");
 
         // Text 형태의 Json > object
         // Object > Text 형태의 Json

@@ -22,6 +22,7 @@ public class User {
     private String phoneNumber;
     private String address;
 
+    // objectMapper 에서 text > object 매핑시 활용
     public User(){}
 
     public User(String name, int age){
